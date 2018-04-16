@@ -1,0 +1,2 @@
+sh vm_run_initial_predictions.sh
+sh vm_run_daily_predictions.sh
