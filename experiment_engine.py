@@ -8,7 +8,7 @@ import json
 # import matplotlib.pyplot as plt
 import mosaic_utils as mu
 import datetime as dt
-from features import extract_features
+#from features import extract_features
 import cc_data_retriever as data_retriever
 from random import randint
 from sklearn import svm
